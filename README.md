@@ -25,7 +25,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_structure_maker: ^1.0.0
+  flutter_structure_maker: ^1.0.1
 ```
 
 Or install globally:
